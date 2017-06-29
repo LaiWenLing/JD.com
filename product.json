@@ -1,0 +1,27 @@
+[
+  {
+    "name":"微软（Microsoft）Xbox One动感家庭欢乐套装（带 Kinect 版本,含3款免费游戏）",
+    "imgsrc":"product_pic1.jpg",
+    "slogan":"【畅玩海外游戏】原装国行游戏机 支持最终幻想游戏光碟，内含三款重磅游戏，二个无线手柄新一代，Xbox One S游戏机，另光盘解锁，可畅玩海外游戏，点击抢购！",
+    "price":"3399",
+    "number":"1"
+  },
+  {"name":"荣耀8 全网通 4G手机 樱语粉",
+    "imgsrc":"product_pic2.jpg",
+    "slogan":"双镜头，双2.5D玻璃，双功能指纹！【荣耀新机惠，狂欢耀加倍！点击查看~】",
+    "price":"2499",
+    "number":"1"
+  },
+  {"name":"Apple iPhone 7 (A1660) 128G 亮黑色 移动联通电信4G手机",
+    "imgsrc":"product_pic3.jpg",
+    "slogan":"暖春开学季，就要“焕”新装！领券可享12期白条免息！限量免息券，领券戳这里！",
+    "price":"5899",
+    "number":"1"
+  },
+  {"name":"小米5s 全网通 尊享版 4GB内存 128GB ROM 哑光深灰 移动联通电信4G手机",
+    "imgsrc":"product_pic4.jpg",
+    "slogan":"无孔式超声波指纹识别，超感光相机 ，高通骁龙 821处理器，128GB大内存全新红米4X点击立即预约！3月3日限量现货首发！",
+    "price":"2299",
+    "number":"1"
+  }
+]

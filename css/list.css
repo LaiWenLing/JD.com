@@ -1,0 +1,15 @@
+
+.product_page{ margin: 0 auto; padding-top: 30px; border-bottom: 2px solid #c81623; padding-bottom: 20px;}
+.product_page .productList{width:232px; border: 1px solid #fff; height: 412px; padding: 38px 6px 0 6px; margin: 0  20px; float:left;
+            position: relative; z-index: 5; overflow: hidden;}
+.product_page .productList:hover{border-color: #ccc; box-shadow: 0 0 4px 0 #ccc;}
+.productList .product-pic{width: 220px; height: 220px; margin: 0 auto; padding-bottom: 8px; overflow: hidden;}
+.productList .product-pic img{font-size: 0;}
+.productList .product-text h4{color: #e4393c; font-size: 20px; line-height: 37px; height: 37px; overflow: hidden;}
+.productList .product-text p a{color: #666; line-height: 21px; height: 21px; overflow: hidden; display: block;}
+.productList .product-text p a:hover{color: #c81623; text-decoration: underline;}
+.productList .product-text span{color: #ffaa71; line-height: 19px; height: 19px; display: block; overflow: hidden;}
+.productList .product-text em{font-style: normal; color:#ccc; line-height: 29px; height:29px;}
+.productList .product-text em i{color: #005aa0;}
+
+
