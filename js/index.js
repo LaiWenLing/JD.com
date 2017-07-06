@@ -1,6 +1,3 @@
-/**
- * Created by hxsd on 2017/1/20.
- */
 
 $(function(){
     //京东菜单

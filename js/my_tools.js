@@ -1,6 +1,3 @@
-/**
- * Created by hxsd on 2017/1/20.
- */
 function getStyle(obj,styleName){
     var value=obj.currentStyle ? obj.currentStyle[styleName] : getComputedStyle(obj,false)[styleName];
     return parseInt(value);

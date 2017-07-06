@@ -1,7 +1,3 @@
-/**
- * Created by Administrator on 2017/1/31.
- */
-
 $(function(){
     //放大镜
     (function magnifier(){

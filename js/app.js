@@ -1,6 +1,4 @@
-/**
- * Created by Administrator on 2017/3/5.
- */
+
 //创建主模块，添加对路由模块的依赖
 var myapp=angular.module("myapp",["ngRoute"]);
 
